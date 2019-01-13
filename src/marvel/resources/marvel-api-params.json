@@ -1,0 +1,7 @@
+{
+    "baseUrl": "https://gateway.marvel.com/v1/public",
+    "keys": {
+        "public": "3c0b3e167caa830e6201eb3feb427afb",
+        "private": "ad43dba1a18ba8481ced333e86b01f52184ab286"
+    }
+}
